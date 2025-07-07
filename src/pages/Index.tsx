@@ -16,7 +16,7 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
-              <Icon name="Waves" className="text-[#2D5016] w-8 h-8" />
+              <Icon name="Leaf" className="text-[#2D5016] w-8 h-8" />
               <h1 className="text-2xl font-bold text-[#2D5016]">ООО Август</h1>
             </div>
             <nav className="hidden md:flex space-x-8">
