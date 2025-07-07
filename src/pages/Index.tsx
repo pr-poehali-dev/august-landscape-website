@@ -236,7 +236,9 @@ const Index = () => {
               <CardContent className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Icon name="Phone" className="w-5 h-5 text-[#2D5016]" />
-                  <span className="text-[#6682B4]">+7 (XXX) XXX-XX-XX</span>
+                  <span className="text-[#6682B4]">
+                    +7 (921) 340-05-20 +7 (921) 659-12-67
+                  </span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Mail" className="w-5 h-5 text-[#2D5016]" />
