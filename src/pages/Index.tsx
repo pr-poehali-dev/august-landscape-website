@@ -242,9 +242,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Mail" className="w-5 h-5 text-[#2D5016]" />
-                  <span className="text-[#6682B4]">
-                    info@avgust-landscape.ru
-                  </span>
+                  <span className="text-[#6682B4]">4010061@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="MapPin" className="w-5 h-5 text-[#2D5016]" />
