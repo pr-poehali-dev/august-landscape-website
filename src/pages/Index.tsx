@@ -55,7 +55,7 @@ const Index = () => {
             </h2>
             <p className="text-xl text-[#6682B4] mb-8 max-w-2xl mx-auto">
               Создаем уникальные водные объекты и благоустраиваем территории с
-              2015 года. Полный цикл работ от проектирования до сдачи под ключ.
+              2013 года. Полный цикл работ от проектирования до сдачи под ключ.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
@@ -93,7 +93,7 @@ const Index = () => {
           <div className="grid md:grid-cols-3 gap-8">
             <Card className="hover:shadow-lg transition-shadow border-[#F5F5DC]">
               <CardHeader className="text-center">
-                <div className="w-16 h-16 bg-[#2D5016] rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 bg-cyan-500">
                   <Icon name="Waves" className="w-8 h-8 text-white" />
                 </div>
                 <CardTitle className="text-[#2D5016]">
@@ -110,7 +110,7 @@ const Index = () => {
 
             <Card className="hover:shadow-lg transition-shadow border-[#F5F5DC]">
               <CardHeader className="text-center">
-                <div className="w-16 h-16 bg-[#2D5016] rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 bg-lime-500">
                   <Icon name="TreePine" className="w-8 h-8 text-white" />
                 </div>
                 <CardTitle className="text-[#2D5016]">
@@ -127,7 +127,7 @@ const Index = () => {
 
             <Card className="hover:shadow-lg transition-shadow border-[#F5F5DC]">
               <CardHeader className="text-center">
-                <div className="w-16 h-16 bg-[#2D5016] rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 bg-orange-300">
                   <Icon name="Hammer" className="w-8 h-8 text-white" />
                 </div>
                 <CardTitle className="text-[#2D5016]">
