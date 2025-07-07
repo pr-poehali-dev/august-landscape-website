@@ -306,7 +306,7 @@ const Index = () => {
               <ul className="space-y-2 text-[#F5F5DC] opacity-80">
                 <li>+7 (921) 340-05-20 +7 (921) 659-12-67</li>
                 <li>info@avgust-landscape.ru</li>
-                <li>г. Москва</li>
+                <li>г. Санкт-Петербург</li>
               </ul>
             </div>
           </div>
