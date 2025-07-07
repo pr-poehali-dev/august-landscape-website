@@ -248,7 +248,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="MapPin" className="w-5 h-5 text-[#2D5016]" />
-                  <span className="text-[#6682B4]">г. Москва</span>
+                  <span className="text-[#6682B4]">г. Санкт-Петербург</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Clock" className="w-5 h-5 text-[#2D5016]" />
